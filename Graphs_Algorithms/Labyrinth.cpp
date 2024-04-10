@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 int n,m;
-
 #define p pair<int, int>
 #define mp make_pair
 
@@ -32,7 +31,6 @@ int main()
     cin.tie(0);
     ios_base::sync_with_stdio(0);
     cin >> n >> m;
-
     queue<p> q;
     p comeco, fim;
     memset(visitado, 0, sizeof(visitado));
