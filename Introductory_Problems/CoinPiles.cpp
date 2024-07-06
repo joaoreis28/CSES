@@ -1,8 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
+ 
 typedef long long ll;
-
-
+ 
+ 
 int main()
 {
     cin.tie(0);
@@ -13,17 +14,14 @@ int main()
     {
         ll a, b;
         cin >> a >> b;
-
-        
-    // 1 *x + 2*y = a
-    // 2*x + 1*y = b
-
-
-    // 9 9 
-
-
+        if( (2*a - b) % 3 == 0  &&  (2*b - a) % 3 == 0
+            && (2*a - b) >= 0 && (2*b - a) >= 0  )
+                cout << "YES"<< endl;
+        else
+            cout << "NO"<< endl;
     }
-
-
+ 
+ 
+ 
     return 0;
 }
