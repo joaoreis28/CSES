@@ -85,3 +85,5 @@ Se você gostaria de contribuir, siga estas etapas:
 Este projeto é licenciado sob a [MIT License](LICENSE).
 
 ## Progresso
+
+- Introductory Problems 13/19
