@@ -83,3 +83,5 @@ Se você gostaria de contribuir, siga estas etapas:
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
+
+## Progresso
