@@ -87,3 +87,4 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 ## Progresso
 
 - Introductory Problems 17/19
+- Mathematics 9/31
