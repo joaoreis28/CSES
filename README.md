@@ -87,6 +87,12 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 ## Progresso
 
 - Introductory Problems 17/19
-- Mathematics 9/31
-- Range Queries 4/
-- String Algorithms 1/
+- Sorting and Searching 10/35
+- Dynamic Programming    1/19
+- Graph Algorithms       7/36
+- Range Queries          4/19
+- Tree Algorithms        1/16
+- Mathematics           11/31
+- String Algorithms      1/17
+- Geometry               0/7
+- Advanced Techniques
