@@ -88,3 +88,5 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 - Introductory Problems 17/19
 - Mathematics 9/31
+- Range Queries 4/
+- String Algorithms 1/
