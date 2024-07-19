@@ -92,7 +92,7 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 - Graph Algorithms       7/36
 - Range Queries          4/19
 - Tree Algorithms        1/16
-- Mathematics           11/31
+- Mathematics           12/31
 - String Algorithms      1/17
 - Geometry               0/7
 - Advanced Techniques
